@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ASCII"?>
+<MCUProject Schema="60" Class="CMCUProject" Path="" PathAbs="" ProjectType="0">
+<ProjectFolders/>
+<ProjectFiles>
+<FileItem>
+<MCUFile Class="CMCUFile" Path="&amp;ASCmain.c" PathAbs="&amp;UNIC:\Users\Admin\Desktop\_uc60423043d0438043204350440\3 _uc4043a044304400441 _uc50412044f044204130423\6 _uc704410435043c0435044104420440\_uc4042604230438041c\_ucc041f04400430043a04420438044704350441043a04380435 _uc6044004300431043e0442044b\1 _uc8043f04400430043a04420438043a0430\8051\project1\main.c" UseFileOptions="0" FileOptions=""/>
+</FileItem>
+</ProjectFiles>
+<BuildSettings>
+<MCUProjectBuildSettings Class="CMCUProjectBuildSettings" ToolGroupType="3" IntermediatePath="&amp;UNI..\..\..\..\..\..\..\..\_uc604170435043c0446043e0432\microprocessors-e8c9108e697df0e0128bdb878513a7c89d8325db\_uc8041f04400430043a04420438043a0430\_uc6042004300431043e04420430 _uc121161\8051\project1\" IntermediatePathAbs="&amp;UNIC:\Users\Admin\Desktop\_uc604170435043c0446043e0432\microprocessors-e8c9108e697df0e0128bdb878513a7c89d8325db\_uc8041f04400430043a04420438043a0430\_uc6042004300431043e04420430 _uc121161\8051\project1\" OutputPath="&amp;UNI..\..\..\..\..\..\..\..\_uc604170435043c0446043e0432\microprocessors-e8c9108e697df0e0128bdb878513a7c89d8325db\_uc8041f04400430043a04420438043a0430\_uc6042004300431043e04420430 _uc121161\8051\project1\" OutputPathAbs="&amp;UNIC:\Users\Admin\Desktop\_uc604170435043c0446043e0432\microprocessors-e8c9108e697df0e0128bdb878513a7c89d8325db\_uc8041f04400430043a04420438043a0430\_uc6042004300431043e04420430 _uc121161\8051\project1\" TargetFileType="6" SimPath="&amp;UNI..\..\..\..\..\..\..\..\_uc604170435043c0446043e0432\microprocessors-e8c9108e697df0e0128bdb878513a7c89d8325db\_uc8041f04400430043a04420438043a0430\_uc6042004300431043e04420430 _uc121161\8051\project1\" SimPathAbs="&amp;UNIC:\Users\Admin\Desktop\_uc604170435043c0446043e0432\microprocessors-e8c9108e697df0e0128bdb878513a7c89d8325db\_uc8041f04400430043a04420438043a0430\_uc6042004300431043e04420430 _uc121161\8051\project1\" SimFile="&amp;ASCproject1.hex" CodeLoadType="0">
+<Assembler>
+<MCUToolSettings Class="CMCUToolSettings" ToolType="0" IntermediatePath="&amp;ASC.\" IntermediatePathAbs="" OutputPath="&amp;ASC.\" OutputPathAbs="" TargetType="6" IncludeOptions="&amp;ASC$MOD51" PreFilenameOptions="" PostFilenameOptions="">
+<MCULibraries/>
+</MCUToolSettings>
+</Assembler>
+<Compiler>
+<MCUToolSettings Class="CMCUToolSettings" ToolType="-1" IntermediatePath="&amp;UNI..\..\..\..\..\..\..\..\_uc604170435043c0446043e0432\microprocessors-e8c9108e697df0e0128bdb878513a7c89d8325db\_uc8041f04400430043a04420438043a0430\_uc6042004300431043e04420430 _uc121161\8051\project1\" IntermediatePathAbs="&amp;UNIC:\Users\Admin\Desktop\_uc604170435043c0446043e0432\microprocessors-e8c9108e697df0e0128bdb878513a7c89d8325db\_uc8041f04400430043a04420438043a0430\_uc6042004300431043e04420430 _uc121161\8051\project1\" OutputPath="&amp;UNI..\..\..\..\..\..\..\..\_uc604170435043c0446043e0432\microprocessors-e8c9108e697df0e0128bdb878513a7c89d8325db\_uc8041f04400430043a04420438043a0430\_uc6042004300431043e04420430 _uc121161\8051\project1\" OutputPathAbs="&amp;UNIC:\Users\Admin\Desktop\_uc604170435043c0446043e0432\microprocessors-e8c9108e697df0e0128bdb878513a7c89d8325db\_uc8041f04400430043a04420438043a0430\_uc6042004300431043e04420430 _uc121161\8051\project1\" TargetType="-1" IncludeOptions="" PreFilenameOptions="&amp;ASC--ASMLIST -G -M -N255 -P --OPT=none --CHIP=8051AH  --ERRFORMAT=&quot;error; file %f; line %l; column %c; %s&quot;  --WARNFORMAT=&quot;warning; file %f; line %l; column %c; %s&quot;  --MSGFORMAT=&quot;message; file %f; line %l; column %c; %s&quot; " PostFilenameOptions="">
+<MCULibraries/>
+</MCUToolSettings>
+</Compiler>
+<Library>
+<MCUToolSettings Class="CMCUToolSettings" ToolType="6" IntermediatePath="&amp;UNI..\..\..\..\..\..\..\..\_uc604170435043c0446043e0432\microprocessors-e8c9108e697df0e0128bdb878513a7c89d8325db\_uc8041f04400430043a04420438043a0430\_uc6042004300431043e04420430 _uc121161\8051\project1\" IntermediatePathAbs="&amp;UNIC:\Users\Admin\Desktop\_uc604170435043c0446043e0432\microprocessors-e8c9108e697df0e0128bdb878513a7c89d8325db\_uc8041f04400430043a04420438043a0430\_uc6042004300431043e04420430 _uc121161\8051\project1\" OutputPath="&amp;UNI..\..\..\..\..\..\..\..\_uc604170435043c0446043e0432\microprocessors-e8c9108e697df0e0128bdb878513a7c89d8325db\_uc8041f04400430043a04420438043a0430\_uc6042004300431043e04420430 _uc121161\8051\project1\" OutputPathAbs="&amp;UNIC:\Users\Admin\Desktop\_uc604170435043c0446043e0432\microprocessors-e8c9108e697df0e0128bdb878513a7c89d8325db\_uc8041f04400430043a04420438043a0430\_uc6042004300431043e04420430 _uc121161\8051\project1\" TargetType="7" IncludeOptions="" PreFilenameOptions="&amp;ASC r &quot;project1.lib&quot;" PostFilenameOptions="">
+<MCULibraries/>
+</MCUToolSettings>
+</Library>
+</MCUProjectBuildSettings>
+</BuildSettings>
+</MCUProject>
