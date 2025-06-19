@@ -1,0 +1,87 @@
+__Lrdata 39 FFFFFFCA DATA
+?_delay 39 0 DATA
+__Hrbss 39 0 DATA
+__Lrbss 20 0 DATA
+strx_xcopy 116 0 CODE
+__Birdata 3 FFFFFFCA DATA
+__Hirdata 39 FFFFFFCA DATA
+__Lirdata 39 FFFFFFCA DATA
+powerup DD 0 CODE
+__Htext 39 0
+__Ltext 39 0
+strx_copy 12C 0 CODE
+__Hcode 39 0
+__Lcode 39 0
+__Hdata 116 0 CODE
+__Hconst 100 0 CODE
+__Ldata 100 0 CODE
+__Lconst 100 0 CODE
+__Bbss 39 0 XDATA
+__Hbss 39 0 XDATA
+__Hstrings 100 0 CODE
+__Lbss 39 0 XDATA
+__Lstrings 100 0 CODE
+_delay 0 0
+str_xcopy 116 0 CODE
+__S0 157 0
+start1 D1 0 CODE
+__Hnvram 39 0 XDATA
+small_model 1 0
+__Lnvram 39 0 XDATA
+__Hheap 39 0 XDATA
+__Lheap 39 0 XDATA
+_main 3 0 CODE
+str_copy 12C 0 CODE
+?a_main 20 0 DATA
+_exit DA 0 CODE
+start 0 0 CODE
+intlevel0 0 0
+strx_load 12C 0 CODE
+__Brbit 20 20 BITSEG
+str_load 12C 0 CODE
+__Hrbit 0 20 BITSEG
+intlevel1 0 0
+__Hvectors 3 0 CODE
+__Lrbit 0 20 BITSEG
+__Lvectors 0 0 CODE
+__Bidata 39 0 DATA
+__Hidata 39 0 DATA
+__Lidata 39 0 DATA
+stack_internal 1 0
+__Brdata 3 FFFFFFCA DATA
+__Hrdata 39 FFFFFFCA DATA
+%segments
+vectors 0 DF CODE
+rbit 0 18 BITSEG
+data 100 156 CODE
+%locals
+Z:\main_0.obj
+C:\Users\Admin\Desktop\444A~1\36A73~1\61C4D~1\1072~1\53F3~1\B0DA~1\229CE~1\1111\project1\main.c
+3 3 0 CODE
+4 6 0 CODE
+17 F 0 CODE
+30 1E 0 CODE
+31 2D 0 CODE
+32 31 0 CODE
+33 34 0 CODE
+35 37 0 CODE
+36 3A 0 CODE
+37 3C 0 CODE
+38 46 0 CODE
+39 55 0 CODE
+38 57 0 CODE
+40 63 0 CODE
+41 65 0 CODE
+42 72 0 CODE
+36 7B 0 CODE
+44 82 0 CODE
+45 84 0 CODE
+46 8E 0 CODE
+47 9D 0 CODE
+46 9F 0 CODE
+48 AB 0 CODE
+49 AD 0 CODE
+50 BA 0 CODE
+44 C3 0 CODE
+35 CA 0 CODE
+54 CD 0 CODE
