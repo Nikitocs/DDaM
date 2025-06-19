@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ASCII"?>
+<MCUProject Schema="60" Class="CMCUProject" Path="" PathAbs="" ProjectType="0">
+<ProjectFolders/>
+<ProjectFiles>
+<FileItem>
+<MCUFile Class="CMCUFile" Path="&amp;ASCmain.c" PathAbs="&amp;UNIC:\Users\Admin\Desktop\_uc60423043d0438043204350440\3 _uc4043a044304400441 _uc50412044f044204130423\6 _uc704410435043c0435044104420440\_uc4042604230438041c\_ucc041f04400430043a04420438044704350441043a04380435 _uc6044004300431043e0442044b\_uc70413043e0442043e0432044b0435 _ucc043f04400430043a04420438044704350441043a04380435 _uc6044004300431043e0442044b\7 _uc8043f04400430043a04420438043a0430 (_uc2043d0435 _uc60433043e0442043e0432043e)\7pr\7prakt\main.c" UseFileOptions="0" FileOptions=""/>
+</FileItem>
+</ProjectFiles>
+<BuildSettings>
+<MCUProjectBuildSettings Class="CMCUProjectBuildSettings" ToolGroupType="3" IntermediatePath="&amp;ASC..\..\..\..\..\..\..\..\..\..\Documents\National Instruments\Circuit Design Suite 11.0\MCU Workspaces\7pr\7prakt\" IntermediatePathAbs="&amp;ASCC:\Users\Admin\Documents\National Instruments\Circuit Design Suite 11.0\MCU Workspaces\7pr\7prakt\" OutputPath="&amp;ASC..\..\..\..\..\..\..\..\..\..\Documents\National Instruments\Circuit Design Suite 11.0\MCU Workspaces\7pr\7prakt\" OutputPathAbs="&amp;ASCC:\Users\Admin\Documents\National Instruments\Circuit Design Suite 11.0\MCU Workspaces\7pr\7prakt\" TargetFileType="6" SimPath="&amp;ASC..\..\..\..\..\..\..\..\..\..\Documents\National Instruments\Circuit Design Suite 11.0\MCU Workspaces\7pr\7prakt\" SimPathAbs="&amp;ASCC:\Users\Admin\Documents\National Instruments\Circuit Design Suite 11.0\MCU Workspaces\7pr\7prakt\" SimFile="&amp;ASC7prakt.hex" CodeLoadType="0">
+<Compiler>
+<MCUToolSettings Class="CMCUToolSettings" ToolType="-1" IntermediatePath="&amp;ASC.\" IntermediatePathAbs="" OutputPath="&amp;ASC.\" OutputPathAbs="" TargetType="-1" IncludeOptions="" PreFilenameOptions="&amp;ASC--ASMLIST -G -M -N255 -P --OPT=none --CHIP=8052AH  --ERRFORMAT=&quot;error; file %f; line %l; column %c; %s&quot;  --WARNFORMAT=&quot;warning; file %f; line %l; column %c; %s&quot;  --MSGFORMAT=&quot;message; file %f; line %l; column %c; %s&quot; " PostFilenameOptions="">
+<MCULibraries/>
+</MCUToolSettings>
+</Compiler>
+<Library>
+<MCUToolSettings Class="CMCUToolSettings" ToolType="6" IntermediatePath="&amp;ASC.\" IntermediatePathAbs="" OutputPath="&amp;ASC.\" OutputPathAbs="" TargetType="7" IncludeOptions="" PreFilenameOptions="&amp;ASC r &quot;7prakt.lib&quot;" PostFilenameOptions="">
+<MCULibraries/>
+</MCUToolSettings>
+</Library>
+</MCUProjectBuildSettings>
+</BuildSettings>
+</MCUProject>
